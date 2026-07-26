@@ -31,7 +31,10 @@ I am actively expanding my expertise toward a career in Data Analytics, Machine 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Exoplanet classification Project in Python.]
+- **Exoplanet Classification:** 
+  <a href="https://github.com/Kndrxik/exoplanet-classification" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repository-100000?style=flat&logo=github&logoColor=white" alt="Exoplanet Classification Repo">
+  </a>
   
 ## 🌱 Currently Learning 
 
