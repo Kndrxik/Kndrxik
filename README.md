@@ -48,12 +48,14 @@ I am actively expanding my expertise toward a career in Data Analytics, Machine 
 <p>
   <img src="https://img.shields.io/badge/GIS%20%2F%20Spatial%20Analysis-Intermediate-4ECDC4?style=flat" alt="GIS Skill Badge">
 </p>
+
 #### Mathematical & Signal Analysis
 <p>
   <img src="https://img.shields.io/badge/MATLAB-Intermediate-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB Skill Badge">
   <img src="https://img.shields.io/badge/Time%20Series%20Analysis-Intermediate-45B7D1?style=flat" alt="Time Series Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
 </p>
+
 #### Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git Skill Badge">
