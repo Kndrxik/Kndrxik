@@ -25,7 +25,7 @@ I am actively expanding my expertise toward a career in Data Analytics, Machine 
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Exoplanet classification Project in Python.]
-- 
+  
 ## 🌱 Currently Learning 
 
 - [Sampling and Hypothesis Testing in Python.]
