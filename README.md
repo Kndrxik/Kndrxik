@@ -20,7 +20,7 @@
 </p>
 
 ## 🚀 About Me 
-I am a Geoinformatics student at AGH University of Science and Technology with a strong drive for extracting actionable insights from data. 
+I am a Geoinformatics student at AGH University of Krakow with a strong drive for extracting actionable insights from data. 
 
 Sitting at the intersection of spatial analysis, data science, and mathematical modeling. 
 
