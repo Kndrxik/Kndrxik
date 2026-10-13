@@ -29,7 +29,7 @@ I am actively expanding my expertise toward a career in Data Analytics, Machine 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!-- [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/) -->
       
-## 🔭 What I'm Currently Working On 
+## 🔭 My Projects
 
 - **Project A:** [Exoplanet Classification Project in Python](https://github.com/Kndrxik/exoplanet-classification)
   
