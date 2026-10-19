@@ -32,6 +32,7 @@ I am actively expanding my expertise toward a career in Data Analytics, Machine 
 ## 🔭 My Projects
 
 - **Project A:** [Exoplanet Classification Project in Python](https://github.com/Kndrxik/exoplanet-classification)
+- **Project B:** [Antarctic Sea Ice Modeling](https://github.com/Kndrxik/antarctic-sea-ice-modeling/)
   
 ## 🌱 Currently Learning 
 
